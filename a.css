@@ -1,0 +1,224 @@
+.* {margin: auto;
+text-decoration: none;
+font-family: "microsoft yahei";}
+
+body {width: 100%;
+height: 100%;
+min-height: 67.5rem;}
+html {width: 100%;
+height: 100%;}
+.BIG {width: 100%;
+height: 37.5rem;
+min-width: 68.75rem;
+background: url(g_banner_background.png) no-repeat center ;
+background-size:cover;
+}
+.title {width:68.75rem;
+height: 6.25rem;
+position: relative;}
+.tu1 {width:3.75rem;
+height: 3.75rem;
+background: url(g_logo.png) no-repeat center;
+margin: 20px 20px 20px 1.25rem;
+border-radius:0.75rem ;
+float: left;}
+.gong {
+    line-height: 100px;
+    font-size: 33px;
+    color: #fff;
+    font-family: 'yueyuan';
+}
+.SECOND{width: 1100px;
+    height: 500px;
+    position: relative;}
+.block2{width: 100%;
+    height: 100%;
+    position: relative;}
+.k1{width: 550px;
+    height: 100%;
+    margin: 0;
+    display: inline-block;
+	padding: 80px 0 0 60px;
+-webkit-box-sizing: border-box;}
+.min{position: relative;}
+.zi{color: #efefef;
+    font-family: 'yueyuan';
+    font-size: 33px;
+    position: relative;}
+.QQ{font-size: 53px;
+    font-family: 'yueyuan';
+    padding-right: 15px;}
+.ahh {display: inline-block;
+    height: 30px;
+    width: 105px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    margin-left: 25px;
+    border-radius: 5px;
+    background: #fb6c6d;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    cursor: default;}
+.zi:after {
+    content: "";
+    display: block;
+    height: 0;
+    width: 200px;
+    position: absolute;
+    bottom: -1px;
+    border-top: 1px solid #fff;
+}
+.download-kuai{
+    margin: 20px 0;
+    height: 120px;
+    width: 435px;
+}
+.downloadmk{
+    float: left;
+    width: 285px;
+    height: 100%;
+    text-align: center;
+    line-height: 120px;
+    font-size: 33px;
+    color: #fff;
+    border-radius: 10px;
+    background: #fb6c6d;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    cursor: pointer;
+    transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.xixi {
+    font-size: 33px;
+    color: #fff;
+    line-height: 60px;
+}
+.fa-download:before {
+    content: "\f019";
+}
+.ewm{
+    float: right;
+    width: 120px;
+    height: 100%;
+}
+.ewm img{
+    height: 100%;
+    border-radius: 5px;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    cursor: default;
+}
+.daxiao{
+    font-size: 17px;
+    color: #fff;
+    margin-right: 40px;
+}
+.gx{
+    font-size: 17px;
+    color: #fff;
+}
+.sj{width: 315px;
+    height: 478px;
+    position: absolute;
+    right: 82px;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+   background-image:url(g_device_preview_android.png)}
+.nav-device {
+    float: right;
+    padding: 0;
+    margin: 23px 0px 23px 0px;
+}
+.nav-device .nav-device-item {
+    /* width: 130px; */
+    height: 54px;
+    position: relative;
+    list-style: none;
+    float: left;
+    margin-right: 30px;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    cursor: pointer;
+    padding: 0 5px;
+    line-height: 54px;
+    color: #ccc;
+    vertical-align: middle;
+    transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+}
+.jz{margin:0 auto}
+.sxtp {
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+.g-feature-pic {
+    width: 150px;
+    height: 150px;
+    margin: 80px auto 0;
+}
+.tp1 {
+    background: url(g_feature.png) no-repeat 0px 0px;width: 150px;
+    height: 150px;
+    margin: 80px auto 0;
+}
+
+.tp2{
+    background: url(g_feature.png) no-repeat -150px 0px;width: 150px;
+    height: 150px;
+    margin: 80px auto 0;
+}
+.tp3 {
+    background: url(g_feature.png) no-repeat -300px 0px;width: 150px;
+    height: 150px;
+    margin: 80px auto 0;
+}
+.tp4{
+    background: url(g_feature.png) no-repeat -450px 0px;width: 150px;
+    height: 150px;
+    margin: 80px auto 0;
+}
+.word{
+    margin-top: 20px;
+    text-align: center;
+    color: #373737;
+    font-size: 18px;
+}
+.footer {
+    width: 100%;
+    min-width: 1100px;
+    background: #efefef;
+    text-align: center;
+    height: 80px;
+    line-height: 70px;
+    font-size: 13px;
+    color: #989898;
+}
+.jz{
+    margin-left: 225px;
+    margin-right: 225px;
+}
+.dacuowu {
+    height: 400px;
+    margin-left: 225px;
+    margin-right: 225px;
+}
